@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nazim ALI
-- 👀 I’m interested in 
+- 👀 I’m interested in all IT Development projects 
 - 🌱 Currently I pursuing a degree in software engineering,
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me ...
+- 📫 
 - 😄 Pronouns: Mr Nazim
 - ⚡ Fun fact: ...
 
